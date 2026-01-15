@@ -7,7 +7,7 @@ This repository contains supplementary materials for the paper:
 ## Contents
 
 ### Prompts
-- [`prompts/analytics-agent-system-prompt.md`](prompts/analytics-agent-system-prompt.md) - System prompt used to configure the Analytics Agent (A-Agent) for intelligent flight log analysis.
+- [`prompts/analytics-agent-system-prompt.txt`](prompts/analytics-agent-system-prompt.txt) - System prompt used to configure the Analytics Agent (A-Agent) for intelligent flight log analysis.
 
 ### Chat Transcripts
 - `chat-transcripts/` - Example conversation transcripts demonstrating the Analytics Agent's diagnostic capabilities on real-world PX4 issues. *(Coming soon)*
