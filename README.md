@@ -12,6 +12,10 @@ This repository contains supplementary materials for the paper:
 ### Chat Transcripts
 - `chat-transcripts/` - Example conversation transcripts demonstrating the Analytics Agent's diagnostic capabilities on real-world PX4 issues. *(Coming soon)*
 
+### Chat Evidence PDFs (Real-World Incidents)
+- `Analysis on Real World Incidents (github/forumns) chat evidences/` - Evidence PDFs for GitHub/forum incident evaluations.
+- Includes timestamp-ordered chat traces with user/assistant messages, tool calls/results, and inline plot evidence where applicable.
+
 ## Citation
 
 If you use these materials in your research, please cite our paper.
